@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maareeah
-- 👀 I’m interested in blockchain,cosmos-sdk,ibc, hyperledger fabric, IOT
+- 👀 I’m interested in blockchain,cosmos-sdk,ibc, hyperledger fabric, IOT, k8s, voip, networking, rtp...
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on blockchain,cosmos-sdk,ibc, hyperledger fabric, IOT
 - 📫 How to reach me ...
